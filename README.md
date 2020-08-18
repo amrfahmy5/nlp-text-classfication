@@ -12,3 +12,8 @@
 <h3>Output:</h3>
  the accuracy of the model after testing it on the testing set.<br>
  allow the user to input a new text review and then predict if it is positive or negative using the trained model.<br>
+
+<h3>Dataset</h3>
+Airlines reviews from annotated tweets. Tweets sentiment are divided to positive ,neutral and negative reviews. <br>
+<h6>Reference and download:</h6>
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment/data <br>
